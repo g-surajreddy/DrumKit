@@ -26,7 +26,7 @@ function makeSound(key)
       crash.play();
       break;
 
-      case "a":   var kick= new Audio('sounds/kick-bass.mp3');
+      case "a":   var kck= new Audio('sounds/kick-bass.mp3');
        kick.play();
        break;
 
